@@ -3,7 +3,7 @@ $(function() {
   // Peer object
   const peer = new Peer({
     // key:   window.__SKYWAY_KEY__,
-    key:   8b001090-bcaf-4097-9408-c7577c614a32,
+    key:"8b001090-bcaf-4097-9408-c7577c614a32",
     debug: 3,
   });
 
